@@ -16,3 +16,6 @@ Good Luck!
 Do you have any questions? 
 No problem ask us on the 3DLock Discord Server 
 
+[LINUX[
+run the application:
+./001-OBSD-RE
