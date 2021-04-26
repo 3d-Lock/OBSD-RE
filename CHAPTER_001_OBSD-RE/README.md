@@ -21,3 +21,13 @@ to run the application use: <br>
 ./001-OBSD-RE
 
 <img src="https://github.com/3d-Lock/OBSD-RE/blob/main/CHAPTER_001_OBSD-RE/001.png" alt=""/>
+
+
+
+[LEGAL NOTIZ] [BITTE BEACHTEN]
+---
+Das Reverse Engineering von Software ist in den meisten fällen LEGAL!
+Bitte Beachten Sie! Der Softwarehersteller oder Inhaber kann im fall einer Manipulation einer Software dennoch Rechtliche schritte einleiten.
+Bitte seien sie sich dennoch bewusst, dass sie sich in einigen Fällen eine Genehmigung vom Softwarehersteller oder Inhaber der Software einholen müssen u die Software mithilfe der Reverse Engineering Technologie zu Untersuchen.
+
+
