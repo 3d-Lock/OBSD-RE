@@ -1,4 +1,4 @@
-Welcome, to the first chapter of the OBS-RE Challenge.
+Welcome, to the first chapter of the OBSD-RE Challenge.
 
 You broke into a laboratory building and are standing in front of a computer that is running a program.
 The program requires a username and password.
